@@ -1,0 +1,202 @@
+[
+    {
+        "book_name": "Pride and Prejudice",
+        "book_author": "Jane Austen",
+        "path": "/ebooks/1342",
+        "download_count": "43903 downloads",
+        "image_path": "/cache/epub/1342/pg1342.cover.small.jpg",
+        "word_count": 126221
+    },
+    {
+        "book_name": "Frankenstein; Or, The Modern Prometheus",
+        "book_author": "Mary Wollstonecraft Shelley",
+        "path": "/ebooks/84",
+        "download_count": "34646 downloads",
+        "image_path": "/cache/epub/84/pg84.cover.small.jpg",
+        "word_count": 78606
+    },
+    {
+        "book_name": "A Modest Proposal\r",
+        "book_author": "Jonathan Swift",
+        "path": "/ebooks/1080",
+        "download_count": "30730 downloads",
+        "image_path": "/cache/epub/1080/pg1080.cover.small.jpg",
+        "word_count": 6717
+    },
+    {
+        "book_name": "Little Women",
+        "book_author": "Louisa May Alcott",
+        "path": "/ebooks/514",
+        "download_count": "27289 downloads",
+        "image_path": "/cache/epub/514/pg514.cover.small.jpg",
+        "word_count": 194394
+    },
+    {
+        "book_name": "Et dukkehjem. English",
+        "book_author": "Henrik Ibsen",
+        "path": "/ebooks/2542",
+        "download_count": "25774 downloads",
+        "image_path": "/cache/epub/2542/pg2542.cover.small.jpg",
+        "word_count": 30455
+    },
+    {
+        "book_name": "The Works of Edgar Allan Poe, The Raven Edition",
+        "book_author": "Edgar Allan Poe",
+        "path": "/ebooks/25525",
+        "download_count": "24112 downloads",
+        "image_path": "/cache/epub/25525/pg25525.cover.small.jpg",
+        "word_count": 4212
+    },
+    {
+        "book_name": "Ion",
+        "book_author": "Plato",
+        "path": "/ebooks/1635",
+        "download_count": "22624 downloads",
+        "image_path": "/cache/epub/1635/pg1635.cover.small.jpg",
+        "word_count": 9740
+    },
+    {
+        "book_name": "A Tale of Two Cities",
+        "book_author": "Charles Dickens",
+        "path": "/ebooks/98",
+        "download_count": "21298 downloads",
+        "image_path": "/cache/epub/98/pg98.cover.small.jpg",
+        "word_count": 141606
+    },
+    {
+        "book_name": "Alice's Adventures in Wonderland",
+        "book_author": "Lewis Carroll",
+        "path": "/ebooks/11",
+        "download_count": "20969 downloads",
+        "image_path": "/cache/epub/11/pg11.cover.small.jpg",
+        "word_count": 30703
+    },
+    {
+        "book_name": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+        "book_author": "Oscar Wilde",
+        "path": "/ebooks/844",
+        "download_count": "20864 downloads",
+        "image_path": "/cache/epub/844/pg844.cover.small.jpg",
+        "word_count": 24255
+    },
+    {
+        "book_name": "Moby Dick; Or, The Whale",
+        "book_author": "Herman Melville",
+        "path": "/ebooks/2701",
+        "download_count": "20184 downloads",
+        "image_path": "/cache/epub/2701/pg2701.cover.small.jpg",
+        "word_count": 222663
+    },
+    {
+        "book_name": "Adventures of Huckleberry Finn",
+        "book_author": "Mark Twain",
+        "path": "/ebooks/76",
+        "download_count": "19111 downloads",
+        "image_path": "/cache/epub/76/pg76.cover.small.jpg",
+        "word_count": 120867
+    },
+    {
+        "book_name": "The Yellow Wallpaper",
+        "book_author": "Charlotte Perkins Gilman",
+        "path": "/ebooks/1952",
+        "download_count": "18889 downloads",
+        "image_path": "/cache/epub/1952/pg1952.cover.small.jpg",
+        "word_count": 9449
+    },
+    {
+        "book_name": "Beowulf: An Anglo-Saxon Epic Poem",
+        "book_author": null,
+        "path": "/ebooks/16328",
+        "download_count": "18097 downloads",
+        "image_path": "/cache/epub/16328/pg16328.cover.small.jpg",
+        "word_count": 44939
+    },
+    {
+        "book_name": "The Souls of Black Folk",
+        "book_author": "W. E. B. Du Bois",
+        "path": "/ebooks/408",
+        "download_count": "16551 downloads",
+        "image_path": "/cache/epub/408/pg408.cover.small.jpg",
+        "word_count": 73578
+    },
+    {
+        "book_name": "Walden, and On The Duty Of Civil Disobedience",
+        "book_author": "Henry David Thoreau",
+        "path": "/ebooks/205",
+        "download_count": "16504 downloads",
+        "image_path": "/cache/epub/205/pg205.cover.small.jpg",
+        "word_count": 120664
+    },
+    {
+        "book_name": "Metamorphosis",
+        "book_author": "Franz Kafka",
+        "path": "/ebooks/5200",
+        "download_count": "16377 downloads",
+        "image_path": "/cache/epub/5200/pg5200.cover.small.jpg",
+        "word_count": 25641
+    },
+    {
+        "book_name": "The Adventures of Sherlock Holmes",
+        "book_author": "Arthur Conan Doyle",
+        "path": "/ebooks/1661",
+        "download_count": "15983 downloads",
+        "image_path": "/cache/epub/1661/pg1661.cover.small.jpg",
+        "word_count": 109226
+    },
+    {
+        "book_name": "The Call of the Wild",
+        "book_author": "Jack London",
+        "path": "/ebooks/215",
+        "download_count": "15781 downloads",
+        "image_path": "/cache/epub/215/pg215.cover.small.jpg",
+        "word_count": 35679
+    },
+    {
+        "book_name": "The Awakening, and Selected Short Stories",
+        "book_author": "Kate Chopin",
+        "path": "/ebooks/160",
+        "download_count": "15548 downloads",
+        "image_path": "/cache/epub/160/pg160.cover.small.jpg",
+        "word_count": 68482
+    },
+    {
+        "book_name": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+        "book_author": "Charles Dickens",
+        "path": "/ebooks/46",
+        "download_count": "14975 downloads",
+        "image_path": "/cache/epub/46/pg46.cover.small.jpg",
+        "word_count": 32451
+    },
+    {
+        "book_name": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "book_author": "Robert Louis Stevenson",
+        "path": "/ebooks/43",
+        "download_count": "14774 downloads",
+        "image_path": "/cache/epub/43/pg43.cover.small.jpg",
+        "word_count": 29174
+    },
+    {
+        "book_name": "Dracula",
+        "book_author": "Bram Stoker",
+        "path": "/ebooks/345",
+        "download_count": "14742 downloads",
+        "image_path": "/cache/epub/345/pg345.cover.small.jpg",
+        "word_count": 167231
+    },
+    {
+        "book_name": "Index of Project Gutenberg Works on Black History",
+        "book_author": "Various",
+        "path": "/ebooks/58975",
+        "download_count": "14216 downloads",
+        "image_path": "/cache/epub/58975/pg58975.cover.small.jpg",
+        "word_count": 33528
+    },
+    {
+        "book_name": "Heart of Darkness",
+        "book_author": "Joseph Conrad",
+        "path": "/ebooks/219",
+        "download_count": "14070 downloads",
+        "image_path": "/cache/epub/219/pg219.cover.small.jpg",
+        "word_count": 42267
+    }
+]

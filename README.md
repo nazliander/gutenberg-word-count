@@ -1,6 +1,6 @@
 ## Python Word Count Example - Using Gutenberg.org
 
-I prepared a small exercise package for a workshop in Utrecht - De Meern. This exercise package was aiming to teach list-dict comprehensions in a fun way. Exercises might be considered as in an intermediate level.
+I prepared a small exercise package for a workshop in Utrecht - De Meern. This exercise package was aiming to teach list-dict comprehensions in a fun way. Exercises might be considered as intermediate level.
 
 I am combining the source code for that worshop, only to archive the effort of mine.
 
